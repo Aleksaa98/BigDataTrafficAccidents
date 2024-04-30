@@ -19,11 +19,6 @@ def create_spark_session():
         .getOrCreate()
 
     print("=============================================")
-
-    df = spark.read.format("mongodb").option('database', 'TrafficAccidentsDB').option('collection', 'Accidents').load()
-
-    df.show(100)
-
     return spark
 
 

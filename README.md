@@ -20,7 +20,7 @@ This project analyzes traffic accidents using data from MongoDB connected with M
 
 ## Screenshots
 - **Screenshot 1**:
-  ![Screenshot of the first feature](data/screenshots/img 1)
+  ![Screenshot of the first feature](data/Screenshots/img1.png)
 
 - **Screenshot 2**:
-  ![Screenshot of the second feature](data/screenshots/img 2)
+  ![Screenshot of the second feature](data/Screenshots/img2.png)

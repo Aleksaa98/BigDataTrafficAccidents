@@ -19,5 +19,8 @@ This project analyzes traffic accidents using data from MongoDB connected with M
 - Ensure MongoDB connection strings are correct in the scripts.
 
 ## Screenshots
-![img1.png](..%2F..%2Fimg1.png)
-![img2.png](..%2F..%2Fimg2.png)
+- **Screenshot 1**:
+  ![Screenshot of the first feature](../data/screenshots/img 1)
+
+- **Screenshot 2**:
+  ![Screenshot of the second feature](../data/screenshots/img 2)

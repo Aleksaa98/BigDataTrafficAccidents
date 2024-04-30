@@ -17,3 +17,7 @@ This project analyzes traffic accidents using data from MongoDB connected with M
 
 ## Additional Notes
 - Ensure MongoDB connection strings are correct in the scripts.
+
+## Screenshots
+![img1.png](..%2F..%2Fimg1.png)
+![img2.png](..%2F..%2Fimg2.png)
